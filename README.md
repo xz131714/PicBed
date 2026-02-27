@@ -1,2 +1,2 @@
 # PicBed
-图床
+***PicGo + GitHub 图床***
